@@ -88,7 +88,7 @@ Create an [Azure](https://azure.microsoft.com/en-us/free/) account
 <h3>Step 5: Connect to Virtual Machine</h3>
 
 - First you will need to find the Public IP address of your virtual machine
-   - Select the virtual machhine we created in step and the IP address will be on the right hand side 
+   - Select the virtual machhine we created and the IP address will be on the right hand side 
    - Copy the IP address
 
 <p align="center">
@@ -102,7 +102,7 @@ Create an [Azure](https://azure.microsoft.com/en-us/free/) account
    - Select continue
    
 * Windows Users
-     - Open and use Remote Desktop
+     - Open and use Remote Desktop from the Windows search bar
      - Paste IP Address and select Connect
      - Enter username and password from step 4
      - Select OK
@@ -122,7 +122,7 @@ Congratulations!👍 You created your first virtual machine within Microsoft Azu
 <p align="center">
 <img src="https://i.imgur.com/rEBpL8Y.png" height="80%" width="80%" alt="Azure Free Account"/>
 
-<h3>NOTE</h3>
+<h3>*NOTE*</h3>
 - Using virutal machines at times can be confusing as the desktop can mirror your personal computer's desktop. If you ever forget if you are on your vitual machine or your personal computer, follow this simple list.
 
 
