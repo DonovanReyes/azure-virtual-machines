@@ -33,9 +33,9 @@ Create an [Azure](https://azure.microsoft.com/en-us/free/) account
 
 - Go to search bar at the top and search "resource group"
 - Select create resource group
-- You will then need to name the resource group and select the region 
+- You will then want to name the resource group and select the region 
 - Select review + create
-    - For the example, we will be using RG-Lab01 for the name and (US) East US for the region
+    - For this tutorial, we will be using RG-Lab01 for the name and (US) East US for the region
 
 <p align="center">
 <img src="https://imgur.com/ggbUJas.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://imgur.com/eQcY3TD.png" height="70%" width="70%" alt="Azure Free Services"/>
@@ -123,6 +123,20 @@ Congratulations!👍 You have created your first virtual machine within Microsof
 <img src="https://i.imgur.com/rEBpL8Y.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 <h3>NOTE</h3>
+- Using virutal machines at times can be confusing as the desktop can mirror your personal computer's desktop. If you ever forget if you are on your vitual machine or your personal computer, follow this simple list.
+
+
+ - First in the windows search bar type cmd which will highlight the Command Prompt app.
+ - Open Command Prompt and type hostname followed by pressing the enter button.
+ - Finally type whoami followed by the enter button.
+ - Take note of how you can see that you are logged on in the Virtual Machine that you created on Azure.
+  
+
+
+<p align="center">
+<img src="https://imgur.com/ZT1p9PW.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://imgur.com/QPn8R1k.png" height="70%" width="70%" alt="Azure Free Services"/>
+</p>
+
 
 -  Be sure to clean up and DELETE ALL your resources when you are done using your VMs, as they will eat up your credits behind the scenes!    
   
