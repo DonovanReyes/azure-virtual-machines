@@ -61,7 +61,7 @@ Create an [Azure](https://azure.microsoft.com/en-us/free/) account
 - Select create, then select Azure virtual machine
 - You will need to select the resource group, the region, and create a name for the virtual machine
     - For this tutorial we will name the virtual machine VMtutorial
-    - Use same resource group and region as step 2/3
+    - Use same resource group and region as steps 2 & 3
 
 <p align="center">
 <img src="https://imgur.com/6swt4ST.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://imgur.com/Y67tTKW.png" height="70%" width="70%" alt="Azure Free Services"/>
@@ -117,7 +117,7 @@ Create an [Azure](https://azure.microsoft.com/en-us/free/) account
 
 
 
-Congratulations!👍 You have created your first virtual machine within Microsoft Azure!
+Congratulations!👍 You created your first virtual machine within Microsoft Azure!
 
 <p align="center">
 <img src="https://i.imgur.com/rEBpL8Y.png" height="80%" width="80%" alt="Azure Free Account"/>
