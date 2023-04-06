@@ -25,7 +25,7 @@ Create an [Azure](https://azure.microsoft.com/en-us/free/) account
 
 
 <p align="center">
-<img src="https://i.imgur.com/rk4SD27.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/f1eRIx4.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://imgur.com/T2okIVr.png" height="70%" width="70%" alt="Azure Free Account"/> 
 </p>
 
 
@@ -38,7 +38,7 @@ Create an [Azure](https://azure.microsoft.com/en-us/free/) account
     - For the example, we will be using RG-Lab-1 for the name and (US) West 3 for the region
 
 <p align="center">
-<img src="https://i.imgur.com/Afnk87u.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yBBln5a.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://imgur.com/a/bt0EoiL.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yBBln5a.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 <h3>Step 3: Create a storage Account</h3>
