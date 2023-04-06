@@ -35,10 +35,10 @@ Create an [Azure](https://azure.microsoft.com/en-us/free/) account
 - Select create resource group
 - You will then need to name the resource group and select the region 
 - Select review + create
-    - For the example, we will be using RG-Lab-1 for the name and (US) West 3 for the region
+    - For the example, we will be using RG-Lab01 for the name and (US) East US for the region
 
 <p align="center">
-<img src="https://imgur.com/a/bt0EoiL.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yBBln5a.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://imgur.com/ggbUJas.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://imgur.com/eQcY3TD.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 <h3>Step 3: Create a storage Account</h3>
@@ -46,12 +46,12 @@ Create an [Azure](https://azure.microsoft.com/en-us/free/) account
 - Go to search bar and search "storage account"
 - Select Create storage account
 - You will need to select the resource group, the region, and create a name for the storage group
-    - For the example we will name the storage group rglab1
+    - For this tutorial we will name the storage group storageacctutorial
     - Use same resource group and region as step 2
 - Select review, then create.
 
 <p align="center">
-<img src="https://i.imgur.com/zhb3GHZ.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/7ryNBQg.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://imgur.com/1cUiHxD.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://imgur.com/ASMBaug.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
@@ -60,11 +60,11 @@ Create an [Azure](https://azure.microsoft.com/en-us/free/) account
 - Go to search bar and search "virtual machine"
 - Select create, then select Azure virtual machine
 - You will need to select the resource group, the region, and create a name for the virtual machine
-    - For the example we will name the virtual machine virtualmachine
+    - For this tutorial we will name the virtual machine VMtutorial
     - Use same resource group and region as step 2/3
 
 <p align="center">
-<img src="https://i.imgur.com/y0RafHM.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/PCJ3QAr.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://imgur.com/6swt4ST.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://imgur.com/Y67tTKW.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
  
 
